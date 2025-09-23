@@ -12,9 +12,7 @@ I have hands-on experience with:
 - **Visualization Tools:** Tableau, Power BI, Jupyter Notebooks  
 - **Business & Process Skills:** Process optimization, reporting, customer experience, quality KPIs  
 
-I’m excited to keep applying my skills in **projects that connect analytics to real-world impact**, and to collaborate with teams that value curiosity, clarity, and data-driven decision making.  
-
- Feel free to connect with me on linkedin or check out my portfolio projects here on GitHub!  
+I’m excited to keep applying my skills in **projects that connect analytics to real-world impact**, and to collaborate with teams that value curiosity, clarity, and data-driven decision making.   
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-figueira-8a0b6519b/)
@@ -42,5 +40,5 @@ They showcase my work with **Data Preprocessing, Exploratory Data Analysis, Visu
 
 ---
 
-✨ Thanks for visiting my profile! Feel free to explore my repositories and reach out if you’d like to connect.  
+✨ Thanks for visiting my profile! Feel free to explore my projects and reach out if you’d like to connect.  
 
