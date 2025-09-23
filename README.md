@@ -26,7 +26,7 @@ I’m excited to keep applying my skills in **projects that connect analytics to
 
 ## 📊 Data Analytics Projects  
 
-Feel free to take a look at some of my projects below! 🚀  
+Feel free to take a look at some of my projects below!   
 They showcase my work with **Data Preprocessing, Exploratory Data Analysis, Visualization, Business Analysis, and Hypothesis Testing**, using real-world datasets and case studies.  
 
 | Project Name | Notebook or Link | Language | Description |
