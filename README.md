@@ -3,9 +3,7 @@
 My name is Priscila Figueira, and I’m a Data Analyst passionate about transforming data into insights that create real impact.  
 With a background in **Engineering** and professional experience in **logistics, quality assurance, and customer service**, I decided to transition into the field of **Data Analytics** to combine my structured mindset with data-driven problem-solving.  
 
-In 2025, I successfully completed a **Data Analytics Bootcamp at TripleTen**, where I worked on real-world projects involving **SQL, Python, Power BI, Jupyter Notebooks, and Tableau**. I developed skills in **data cleaning, statistical analysis, data visualization, and hypothesis testing**. These projects allowed me to strengthen both my technical and analytical abilities while solving practical business challenges.  
-
-My engineering background has equipped me with a **detail-oriented and process-driven approach**, which I now apply to areas such as **business intelligence, process optimization, and decision support**. I believe in the power of data to improve efficiency, support strategy, and drive innovation across industries.  
+Data Analytics skills acquired through hands-on projects, with expertise in **Python, SQL, Power BI, and Tableau**. Proven experience in data cleaning, statistical analysis, and hypothesis testing to solve business challenges and deliver strategic insights."
 
 I have hands-on experience with:  
 - **Programming & Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL  
@@ -39,5 +37,5 @@ A tabela foi reordenada para que o último projeto ("Robot Café LA") apareça c
 
 ---
 
-✨ Thanks for visiting my profile! Feel free to explore my projects and reach out if you’d like to connect.  
+Thanks for visiting my profile! Feel free to explore my projects and reach out if you’d like to connect.  
 
