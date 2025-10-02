@@ -3,9 +3,9 @@
 My name is Priscila Figueira, and I’m a Data Analyst passionate about transforming data into insights that create real impact.  
 With a background in **Engineering** and professional experience in **logistics, quality assurance, and customer service**, I decided to transition into the field of **Data Analytics** to combine my structured mindset with data-driven problem-solving.  
 
-Data Analytics skills acquired through hands-on projects, with expertise in **Python, SQL, Power BI, and Tableau**. Proven experience in data cleaning, statistical analysis, and hypothesis testing to solve business challenges and deliver strategic insights."
+My skills acquired through hands-on projects, with  **Python, SQL, Power BI, and Tableau**. Proven experience in data cleaning, statistical analysis, and hypothesis testing to solve business challenges and deliver strategic insights.
 
-I have hands-on experience with:  
+I have experience with:  
 - **Programming & Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL  
 - **Visualization Tools:** Tableau, Power BI, Jupyter Notebooks  
 - **Business & Process Skills:** Process optimization, reporting, customer experience, quality KPIs  
