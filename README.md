@@ -24,8 +24,6 @@ I’m excited to keep applying my skills in **projects that connect analytics to
 
 ## 📊 Data Analytics Projects  
 
-A tabela foi reordenada para que o último projeto ("Robot Café LA") apareça como o primeiro e o primeiro projeto ("Megaline") apareça como o último.
-
 | Project Name | Notebook or Link | Language | Description |
 |--------------|------------------|----------|-------------|
 | Market Research & Data Storytelling (Robot Café LA) | RobotCafe_Project | Python | **Market Research and EDA** on open data from LA restaurants. Analyzed **restaurant types, chains vs. non-chains, and seating capacity**. Studied **geographic patterns** (top streets, unique locations). Applied **data storytelling** to communicate findings to investors. Recommended the best restaurant format, size, and **network potential |
