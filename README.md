@@ -24,35 +24,12 @@ I’m excited to keep applying my skills in **projects that connect analytics to
 
 ---
 
-## 🏋️ Project: Model Fitness Churn Analysis and Retention Strategy
-
-### Main Objective
-
-Desenvolver uma estratégia de retenção de clientes baseada em dados para a Model Fitness, prevendo a probabilidade de rotatividade (*churn*) mensal e identificando os fatores mais críticos para o abandono. O objetivo final é **reduzir a taxa de rotatividade** e aumentar a lealdade do cliente.
-
-### Available Data
-
-A análise é baseada em dados demográficos, status de contrato e logs de atividade do cliente, incluindo:
-
-* **Variável-alvo:** `Churn` (se o cliente saiu no mês em questão).
-* **Dados:** `gender`, `age`, `Lifetime`, `Contract_period`, `Avg_class_frequency_total`, `Avg_class_frequency_current_month`, e `Promo_friends`.
-
-### Analysis Scope
-
-O projeto cobriu quatro áreas principais:
-
-1.  **Análise Exploratória (AED):** Análise de correlação e distribuição de fatores de *churn*.
-2.  **Modelagem Preditiva:** Construção e avaliação de modelos de classificação binária (Regressão Logística e Floresta Aleatória) para prever *churn*.
-3.  **Agrupamento (Clustering):** Uso de Dendrograma e K-Means ($n=5$) para criar **perfis de clientes** (leais vs. alto risco) baseados em suas características.
-4.  **Recomendações:** Formulação de táticas de negócios acionáveis focadas em **Incentivo a Contratos Longos** e **Aumento de Engajamento** para diminuir a rotatividade.
-
----
-
 ## 📊 Data Analytics Projects  
 
 | Project Name | Notebook or Link | Language | Description |
 |--------------|------------------|----------|-------------|
-| **Model Fitness Churn Analysis & Retention** | [Model Fitness Churn](https://github.com/pricamargof/Model-Fitness-Churn-Analysis-Retention-Strategy) | Python | **Análise Preditiva e Estratégia de Retenção de Clientes.** Construção de modelos (RF/LR) para prever rotatividade (*churn*) e **Agrupamento (K-Means, n=5)** para criar **perfis de clientes (leais vs. alto risco)**. O projeto utilizou EDA e métricas de avaliação (Precisão/Recall) para formular **recomendações de negócios** focadas na redução da taxa de abandono. |
+| **Model Fitness Churn Analysis & Retention** | [Model Fitness Churn](https://github.com/pricamargof/Model-Fitness-Churn-Analysis-Retention-Strategy) | Python |**Predictive Analysis and Customer Retention Strategy.** Built **classification models (Random Forest / Logistic Regression)** to predict customer churn and applied **Clustering (K-Means, n=5)** to identify **customer segments (loyal vs. high-risk)**. The project included **EDA and model evaluation metrics (Precision/Recall)** to develop **business recommendations** aimed at reducing churn rates.|
+
 | Market Research & Data Storytelling (Robot Café LA) | [RobotCafe_Project](https://github.com/pricamargof/RobotCafe_Project-/blob/main/RobotCafe_Project.ipynb) | Python | **Market Research and EDA** on open data from LA restaurants. Analyzed **restaurant types, chains vs. non-chains, and seating capacity**. Studied **geographic patterns** (top streets, unique locations). Applied **data storytelling** to communicate findings to investors. Recommended the best restaurant format, size, and **network potential** |
 | Business Decisions and A/B Testing | [Business_AB_Project](https://github.com/pricamargof/Business_AB_Project/blob/main/Business_AB_Project.ipynb) | Python | **Prioritized hypotheses** using ICE and RICE frameworks. Designed and analyzed an **A/B test** on online store conversions. Built **graphs of revenue, conversion rate, and anomalies**. Applied **statistical tests** to raw and filtered data. Concluded whether to stop, continue, or declare a **test winner**. |
 | Business and Marketing Analysis (Y.Afisha) | [Afisha_Project](https://github.com/pricamargof/Afisha_Project/blob/main/Afisha_Project.ipynb) | Python | **Business Analysis, EDA and Statistical Methods** on product usage and sales. Analyzed **user behavior, conversions, LTV, CAC, and ROI**. Performed **cohort analysis** to evaluate efficiency of ad sources. Created **visualizations** by device and marketing channel. Delivered recommendations to **optimize marketing budget allocation**. |
